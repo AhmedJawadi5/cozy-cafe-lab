@@ -1,0 +1,1 @@
+console.log("Cozy Cafe Javascript is connected!");
